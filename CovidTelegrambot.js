@@ -13,7 +13,7 @@ bot.on('message',function(msg){  // msg is the input given by the user
 		bot.sendMessage(msg.chat.id,"Hey, what can I do for u?"); // sendMessage fun() is send to bot
 
 	}
-	else if(temp == "Ok,thank u"){
+	else if(temp == "Ok, thank u"){
 
 		bot.sendMessage(msg.chat.id,"Welcome :)");
 
