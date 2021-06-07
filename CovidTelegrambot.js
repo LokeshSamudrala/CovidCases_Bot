@@ -41,3 +41,7 @@ bot.on('message',function(msg){  // msg is the input given by the user
 
 })
 
+ /* Steps To Run:
+ - Open file in cmd and run using cmd "node filename.js"
+ - Open Telegram Bot by giving input so that you can get Covid Cases Information Country wise 
+ */
